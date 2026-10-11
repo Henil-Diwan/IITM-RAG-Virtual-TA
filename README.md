@@ -6,6 +6,14 @@ The service is a single FastAPI app ([app.py](app.py)) backed by a pre-built SQL
 
 ---
 
+
+
+https://github.com/user-attachments/assets/e9fa3b71-5f38-41ea-8bde-de4df6181c8d
+
+
+
+---
+
 ## Table of contents
 
 - [Features](#features)
