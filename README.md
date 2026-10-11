@@ -1,4 +1,4 @@
-# RAG Q&A Bot
+# IITM RAG Virtual TA
 
 A multimodal Retrieval-Augmented Generation service that answers questions about the IIT Madras **Tools in Data Science (TDS)** course. It retrieves grounded context from the course website and the course Discourse forum, then asks an LLM to compose an answer with cited source URLs. Accepts an optional image alongside the question.
 
